@@ -33,19 +33,19 @@ digital-literacy-project/
 │
 ├── task-1-presentation/               ← Digital Literacy Infographic
 │   ├── infographic.png                ← Exported Canva design
-│   └── description.md                 ← Tool used & reflection
+│   
 │
 ├── task-2-portfolio/                  ← Student Digital Portfolio
 │   ├── github-profile.png             ← GitHub profile screenshot
 │   ├── linkedin-profile.png           ← LinkedIn profile screenshot
 │   ├── kaggle-profile.png             ← Kaggle profile screenshot
-│   └── reflection.md                  ← Platform reflection notes
+│  
 │
 ├── task-3-platforms/                  ← Coding & Collaboration Platforms
 │   ├── hackerrank-challenge.png       ← Completed challenge screenshot
 │   ├── google-form.png                ← Digital Literacy Quiz screenshot
 │   ├── google-sheet.png               ← Response sheet screenshot
-│   └── reflection.md                  ← Platform reflection notes
+│  
 │
 ├── task-4-email-etiquette/            ← Professional Email & Etiquette
 │   ├── email-drafts.md                ← Two professional email drafts
